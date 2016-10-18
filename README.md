@@ -56,6 +56,12 @@ If you are running Windows, run:
 activate ep-ml
 ```
 
+Then run jupyter:
+
+```
+jupyter notebook
+```
+
 - **Option C: Alternative setup**
 
 Install the following dependencies: pandas, numpy, scikit-learn, matplotlib, seaborn, ipython, ipython-notebook
